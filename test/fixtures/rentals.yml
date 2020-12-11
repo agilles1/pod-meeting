@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date_time: 2020-12-11 14:27:40
+  customer_name: MyString
+  boat_name: MyString
+
+two:
+  date_time: 2020-12-11 14:27:40
+  customer_name: MyString
+  boat_name: MyString
